@@ -25,8 +25,10 @@ I'm Full Stack developer especialized on the following technologies:
 - [Personal Site](https://alexandre.odoni.nom.br)
 - :email:  [aleodoni@gmail.com](mailto:aleodoni@gmail.com)
 - :telephone: +55 41 99255 6600
-### Download my resumé
-- :inbox_tray:  [Alexandre Odoni Resumé](https://github.com/aleodoni/aleodoni/files/6826486/cv_alexandre_odoni_updated.pdf)
+### Download my CV
+- :inbox_tray:  [Alexandre Odoni CV](https://github.com/aleodoni/aleodoni/files/6826486/cv_alexandre_odoni_updated.pdf)
+### Download my Resume
+- :inbox_tray:  [Alexandre Odoni Resumé](https://github.com/aleodoni/aleodoni/files/7090739/resume_alexandre_odoni.pdf)
 
 <!--
 - 😄 Pronouns: ...
