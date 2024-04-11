@@ -3,6 +3,10 @@
 I'm Full Stack developer especialized on the following technologies:
 
 - ⚡ Next.js
+- ⚡ Devops
+- ⚡ Docker
+- ⚡ Docker Swarm
+- ⚡ Kubernetes
 - ⚡ React
 - ⚡ React Native
 - ⚡ Redux
